@@ -27,8 +27,8 @@
 }
 "publishConfig": {
     "registry":"https://npm.pkg.github.com/"
-  },
+  }
   "scripts": {
     "build": "webpack --mode production"
-  },
+  }
 
